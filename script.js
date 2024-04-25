@@ -10,6 +10,8 @@ var playerPosX;
 var playerPosY;
 
 
+
+
 class Obstacle {
 	constructor(x, y, w, h) {
 		this.x = x;
