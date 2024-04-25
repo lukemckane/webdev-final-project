@@ -8423,9 +8423,9 @@ p5.prototype.registerMethod('init', function p5playInit() {
 		await $.delay();
 		logo.offsetHeight; // trigger css reflow
 		logo.style.scale = 1.2;
-		await $.delay(0);
+		await $.delay(1100);
 		logo.style.opacity = 0;
-		await $.delay(0);
+		await $.delay(400);
 		d.style.display = 'none';
 		d.remove();
 		document.getElementById('p5play-intro')?.remove();
