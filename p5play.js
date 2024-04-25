@@ -8418,7 +8418,7 @@ p5.prototype.registerMethod('init', function p5playInit() {
 			logo.src = 'https://p5play.org/assets/made_with_p5play.webp';
 		}
 		await new Promise((r) => (logo.onload = r));
-		d.append(logo);
+		// d.append(logo);
 		// document.body.append(d);
 		await $.delay();
 		logo.offsetHeight; // trigger css reflow
