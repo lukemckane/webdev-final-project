@@ -8419,7 +8419,7 @@ p5.prototype.registerMethod('init', function p5playInit() {
 		}
 		await new Promise((r) => (logo.onload = r));
 		d.append(logo);
-		document.body.append(d);
+		// document.body.append(d);
 		await $.delay();
 		logo.offsetHeight; // trigger css reflow
 		logo.style.scale = 1.2;
