@@ -1,7 +1,7 @@
 let obstacles = [];
 
-let wideVideos = ['MyDadFinallyWinsVictoryRoyale.mp4', 'IBought250CURSEDAmazonProducts!.mp4', 'WeBuiltaWaterparkInOurHouse!.mp4', 'HavingaSTRICTTEACHERinMinecraft!.mp4'];
-let tallVideos = ['GUESStheColor.mp4', 'WhatWouldYouDrawshortsviral.mp4', 'shittyYTad1.mp4']
+let wideVideos = ['MyDadFinallyWinsVictoryRoyale.mp4', 'IBought250CURSEDAmazonProducts!.mp4', 'WeBuiltaWaterparkInOurHouse!.mp4', 'HavingaSTRICTTEACHERinMinecraft!.mp4', 'IBuiltaThemeParkInMyHouse!.mp4', 'IUsedGODMODECheats.mp4', 'ClashofClansxErlingHaaland.mp4'];
+let tallVideos = ['GUESStheColor.mp4', 'WhatWouldYouDrawshortsviral.mp4', 'shittyYTad1.mp4', 'YourArtIfYou.mp4', 'OHIOChallengeinMinecraftminecraftshorts.mp4', 'Drawing NightmareCatnapButonmyKeyboard.mp4', 'HELPNuggetsinNeverGiveUpMiningChallenge.mp4', 'WhoWonMrBeastsDinoPictureContestshorts.mp4']
 
 var urlX;
 var urlY;
